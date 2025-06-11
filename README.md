@@ -4,7 +4,9 @@
 A Streamlit web application that lets users ask natural language questions and receive SQL-generated insights from Google BigQuery datasets. It combines OpenAI's GPT model for natural language to SQL generation, BigQuery for data retrieval, and Streamlit for an intuitive frontend.
 
 ---
-![Chat Interface UI Screenshot](UI.png)
+![Chat Interface UI Screenshot](img/1.png)
+![Chat Interface UI Screenshot](img/2.png)
+![Chat Interface UI Screenshot](img/3.png)
 ---
 ## 🚀 Features
 
