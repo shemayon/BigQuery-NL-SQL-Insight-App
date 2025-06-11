@@ -34,8 +34,8 @@ A Streamlit web application that lets users ask natural language questions and r
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/bigquery-nl-sql-insight-app.git
-cd bigquery-nl-sql-insight-app
+git clone https://github.com/shemayon/BigQuery-NL-SQL-Insight-App.git
+cd BigQuery-NL-SQL-Insight-App
 ````
 
 ### 2. Install Dependencies
